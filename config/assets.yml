@@ -1,0 +1,7 @@
+javascripts:
+  index:
+    - public/javascripts/index.js
+
+stylesheets:
+  style:
+    - public/stylesheets/style.css
